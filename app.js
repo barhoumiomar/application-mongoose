@@ -108,7 +108,7 @@ const deleteContact = async (email) => {
 //searchContact('bob.brown@gmail.com'); 
 
 // Uncomment to update a contact's phone number
-updateContact('john.doe@gmail.com', 1781911654);
+//updateContact('john.doe@gmail.com', 1781911654);
 
 // Uncomment to delete a contact
 //deleteContact('alice.johnson@gmail.com');
